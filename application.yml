@@ -3,3 +3,4 @@ db:
   username: leni
   password: 123
 spring.appliction.name: config-server
+app.name: config-server
