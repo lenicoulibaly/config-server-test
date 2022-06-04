@@ -1,0 +1,5 @@
+db:
+  connection: connection-string
+  username: leni
+  password: 123
+spring.appliction.name: config-server
